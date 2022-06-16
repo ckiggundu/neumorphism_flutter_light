@@ -1,16 +1,37 @@
-# neumorphism_flutter
 
-A new Flutter project.
+# Flutter: Neumorphism Basic Application
 
-## Getting Started
+A flutter application to showcase how to create the Neumorphism effect.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Deployment Setup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clone the project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+  git clone https://github.com/ckiggundu/neumorphism_flutter
+```
+
+Go to the project directory
+
+```bash
+  cd neumorphism_flutter
+```
+
+Install dependencies
+
+```bash
+  flutter pub get
+```
+
+Start the device emulator
+
+```bash
+  flutter run
+```
+
+
+## Screenshots
+
+[![Screenshot-2022-06-16-153528.png](https://i.postimg.cc/Qt1J4dWW/Screenshot-2022-06-16-153528.png)](https://postimg.cc/KkcT4FfZ)
+
