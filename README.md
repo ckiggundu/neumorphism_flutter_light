@@ -1,5 +1,5 @@
 
-# Flutter: Neumorphism Basic Application
+# Flutter: Neumorphism Modern UI (Light Theme)
 
 A flutter application to showcase how to create the Neumorphism effect.
 
