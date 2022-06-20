@@ -45,10 +45,10 @@ return Scaffold(
         child: Container(
 
             //insert the image into the shape
-          child: Image.asset(
-            'images/icons8-instagram-250.png',
-            height: 80,
-            color: Colors.grey[700],
+          child: const Icon(
+            Icons.person,
+            size: 80,
+            color: Colors.grey,
           ),
           padding: const EdgeInsets.all(30),
 
