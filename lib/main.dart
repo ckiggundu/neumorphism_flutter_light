@@ -55,10 +55,10 @@ class _MyHomePageState extends State<MyHomePage> {
       backgroundColor: Colors.grey[300],
       body: Center(
         child: Container(
-          child: Image.asset(
-            'images/icons8-instagram-250.png',
-            height: 80,
-            color: Colors.grey[700],
+          child: const Icon(
+            Icons.person,
+            size: 80,
+            color: Colors.grey,
           ),
           padding: const EdgeInsets.all(30),
           decoration: BoxDecoration(
